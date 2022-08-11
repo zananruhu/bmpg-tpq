@@ -6,7 +6,7 @@
       <li class="nav-item active">
           <a class="nav-link" href="/">
               <i class="fas fa-fw fa-tachometer-alt"></i>
-              <span class="mt-auto">BMPG-TPQ=</span></a>
+              <span class="mt-auto">BMPG-TPQ</span></a>
       </li>
 
       <!-- Divider -->
